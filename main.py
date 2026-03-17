@@ -3,6 +3,7 @@ import int_utils
 import real_utils
 import dict_utils
 import list_utils
+#Get started
 
 print("TEXT MODULE")
 text = "Salom Dunyo"
@@ -16,7 +17,7 @@ print(int_utils.is_even(10))
 print(int_utils.factorial(5))
 print(int_utils.is_prime(17))
 print(int_utils.to_binary(25))
-
+ 
 print("\nREAL MODULE")
 numbers = [1.5, 2.7, 3.2, 4.6]
 print(real_utils.average(numbers))
